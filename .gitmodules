@@ -1,0 +1,3 @@
+[submodule "AlamofireTaskManagerImportBugDemo/Alamofire"]
+	path = AlamofireTaskManagerImportBugDemo/Alamofire
+	url = https://github.com/Alamofire/Alamofire.git
