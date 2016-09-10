@@ -7,6 +7,7 @@
 //
 
 #import "MyObject.h"
+#import "AlamofireTaskManagerImportBugDemo-swift.h"
 
 @implementation MyObject
 
